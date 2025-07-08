@@ -1,0 +1,2 @@
+# chromeextensionsprivacypolicy
+privacypolicy4chromextensions
